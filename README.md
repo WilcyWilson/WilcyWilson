@@ -8,4 +8,4 @@
 
 # Ongoing Self Projects
 
-* #### [Extract Files of Specific Extension from Folder(Windows Forms CSharp)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
+* #### [Extract Files of Specific Extension from Folder (Windows Forms CSharp)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
