@@ -1,6 +1,6 @@
 # Self Projects
 
-* #### [Extract Files of Specific Extension from a Folder (Windows Forms CSharp)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
+* #### [Extract Files of Specific Extension from a Folder (Windows Forms C#)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
 * #### [Simple Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-OmniFoodJsHtmlCSS-Webpage/)
 * #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-LaserDefender_WebGL_Unity-GameDev/)
 * #### [E-Commerce Website (Django Oscar)](https://github.com/WilcyWilson/6thSem-Ecom-Project/tree/payment-gateway)
