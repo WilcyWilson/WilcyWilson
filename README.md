@@ -4,7 +4,7 @@
 
 * #### [Extract Files of Specific Extension from Folder (Windows Forms CSharp)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
 * #### [Simple Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-OmniFoodJsHtmlCSS-Webpage/)
-* #### [Two Player Laser Defender Game (Unity and C#)](https://github.com/WilcyWilson/SP-LaserDefender_WebGL_Unity-GameDev/)
+* #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-LaserDefender_WebGL_Unity-GameDev/)
 
 # Something More
 
