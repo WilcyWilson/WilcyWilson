@@ -1,5 +1,3 @@
-### Hello there 👋👋👋
-
 # Self Projects
 
 * #### [Extract Files of Specific Extension from Folder (Windows Forms CSharp)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
