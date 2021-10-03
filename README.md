@@ -9,6 +9,7 @@
 
 * #### [My Digital Arts](https://github.com/WilcyWilson/Digital-Painting/blob/main/README.md) 
 * #### [Linux Tips and Tricks](https://github.com/WilcyWilson/Linux-Study/blob/main/README.md)
+* #### [SOLID Design Principles](https://github.com/WilcyWilson/SOLID-Design-Principles/blob/master/README.md)
 * #### [C# From Basics to Advance](https://github.com/WilcyWilson/CSharp-101/blob/main/README.md) 
 
 
