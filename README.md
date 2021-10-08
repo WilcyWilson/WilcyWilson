@@ -1,4 +1,4 @@
-# Self Projects
+### Self Projects
 
 * #### [Extract Files of Specific Extension from a Folder (Windows Forms C#)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
 * #### [Simple Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-OmniFoodJsHtmlCSS-Webpage/)
@@ -7,7 +7,7 @@
 * #### [Block Breaker Game (Unity and C#)](https://github.com/WilcyWilson/SP-BlockBreaker_Windows_Unity-GameDev)
 * #### [E-Commerce Website (Django Oscar)](https://github.com/WilcyWilson/6thSem-Ecom-Project/tree/payment-gateway)
 
-# Something More
+### Something More
 
 * #### [My Digital Arts](https://github.com/WilcyWilson/Digital-Painting#readme) 
 * #### [Linux Tips and Tricks](https://github.com/WilcyWilson/Linux-Study#readme)
