@@ -3,7 +3,7 @@
 * #### [Extract Files of Specific Extension from a Folder (Windows Forms C#)](https://github.com/WilcyWilson/SP-WinFormsCS-ExtractFiles/)
 * #### [Elegant Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-OmniFoodJsHtmlCSS-Webpage/)
 * #### [Discord Bot that lists users in the server and their numbers (Java,Maven and JDA)](https://github.com/WilcyWilson/SP-DiscordBot-Maven_DiscordAPI_Java-Bot/tree/MessageEmbeds#readme)
-* #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-LaserDefender_WebGL_Unity-GameDev/)
+* #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-LaserDefender_WebGL_Unity-GameDev/#readme)
 * #### [Block Breaker Game (Unity and C#)](https://github.com/WilcyWilson/SP-BlockBreaker_Windows_Unity-GameDev)
 * #### [E-Commerce PC Parts Website (Django Oscar)](https://github.com/WilcyWilson/6thSem-Ecom-Project/tree/payment-gateway)
 
