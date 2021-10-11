@@ -1,11 +1,13 @@
 ### Self Projects
 
-* #### [Extract Files of Specific Extension from a Folder (Windows Forms C#)](https://github.com/WilcyWilson/SP-WindowsForms_CSharp-WindowsApplication)
-* #### [Simple Elegant Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-JS_HTML_CSS-Webpage)
-* #### [Discord Bot That Lists Users In The Server And Their Total Numbers (Java,Maven and JDA)](https://github.com/WilcyWilson/SP-Maven_JDA_Java-DiscordBot/tree/MessageEmbeds)
-* #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-WebGL_Unity-LaserDefender_GameDev)
-* #### [Block Breaker Game (Unity and C#)](https://github.com/WilcyWilson/SP-WindowsPlatform_Unity-BlockBreaker_GameDev)
-* #### [E-Commerce PC Parts Website (Django Oscar)](https://github.com/WilcyWilson/GP-DjangoOscar-ShoppingWebsite)
+* #### [File Encryption and Decryption Android App (Flutter)](https://github.com/WilcyWilson/GP-AES_Flutter-AndroidApp#readme)
+* #### [Extract Files of Specific Extension from a Folder (Windows Forms C#)](https://github.com/WilcyWilson/SP-WindowsForms_CSharp-WindowsApplication/tree/V1.1#readme)
+* #### [Simple Elegant Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-JS_HTML_CSS-Webpage#readme)
+* #### [Discord Bot That Lists Users In The Server And Their Total Numbers (Java,Maven and JDA)](https://github.com/WilcyWilson/SP-Maven_JDA_Java-DiscordBot/tree/MessageEmbeds#readme)
+* #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-WebGL_Unity-LaserDefender_GameDev#readme)
+* #### [Block Breaker Game (Unity and C#)](https://github.com/WilcyWilson/SP-WindowsPlatform_Unity-BlockBreaker_GameDev#readme)
+* #### [E-Commerce PC Parts Website (Django Oscar)](https://github.com/WilcyWilson/GP-DjangoOscar-ShoppingWebsite/tree/payment-gateway#readme)
+
 
 ### Something More
 
