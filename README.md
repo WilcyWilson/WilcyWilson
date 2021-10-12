@@ -1,4 +1,4 @@
-### Self Projects
+### Projects
 
 * #### [File Encryption And Decryption Android App (Flutter and AES Alogrithm)](https://github.com/WilcyWilson/GP-AES_Flutter-AndroidApp#readme)
 * #### [CRUD Operation With Search Functionality (Java, JSP, Servlet, JDBC and MySQL)](https://github.com/WilcyWilson/SP-JSP_Servlet_JDBC-CRUD_WebDev#readme)
