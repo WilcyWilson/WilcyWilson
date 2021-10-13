@@ -1,4 +1,4 @@
-#### Projects
+### Projects
 
 * #### [CRUD Operation With Search Functionality (Java, JSP, Servlet, JDBC and MySQL)](https://github.com/WilcyWilson/SP-JSP_Servlet_JDBC-CRUD_WebDev#readme)
 * #### [Discord Bot That Welcomes Users As They Join The Server (Java, Maven and JDA)](https://github.com/WilcyWilson/SP-Maven_JDA_Java-DiscordBot#readme)
@@ -10,7 +10,7 @@
 * #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-WebGL_Unity-LaserDefender_GameDev#readme)
 * #### [Block Breaker Game (Unity and C#)](https://github.com/WilcyWilson/SP-WindowsPlatform_Unity-BlockBreaker_GameDev#readme)
 
-#### Something More
+### Something More
 
 * #### [My Digital Arts](https://github.com/WilcyWilson/Digital-Painting#readme) 
 * #### [Git and Github Workflow](https://github.com/WilcyWilson/git-github-workflow#readme)
