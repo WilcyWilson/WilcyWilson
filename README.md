@@ -4,7 +4,7 @@
 * #### [CRUD Operation With Search Functionality (Java, JSP, Servlet, JDBC and MySQL)](https://github.com/WilcyWilson/SP-JSP_Servlet_JDBC-CRUD_WebDev#readme)
 * #### [Extract Files Of Specific Extension From A Folder (Windows Forms and C#)](https://github.com/WilcyWilson/SP-WindowsForms_CSharp-WindowsApplication/tree/V1.1#readme)
 * #### [Simple Elegant Webpage (HTML,CSS and JavaScript)](https://github.com/WilcyWilson/SP-JS_HTML_CSS-Webpage#readme)
-* #### [Discord Bot That Lists Users In The Server And Their Total Numbers (Java, Maven and JDA)](https://github.com/WilcyWilson/SP-Maven_JDA_Java-DiscordBot/tree/MessageEmbeds#readme)
+* #### [Discord Bot That Lists Users In The Server And Their Total Numbers (Java, Maven and JDA)](https://github.com/WilcyWilson/SP-Maven_JDA_Java-DiscordBot#readme)
 * #### [Two Player Laser Defender WebGL Game (Unity and C#)](https://github.com/WilcyWilson/SP-WebGL_Unity-LaserDefender_GameDev#readme)
 * #### [Block Breaker Game (Unity and C#)](https://github.com/WilcyWilson/SP-WindowsPlatform_Unity-BlockBreaker_GameDev#readme)
 * #### [E-Commerce PC Parts Website (Django Oscar)](https://github.com/WilcyWilson/GP-DjangoOscar-ShoppingWebsite/tree/payment-gateway#readme)
