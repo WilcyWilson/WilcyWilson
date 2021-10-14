@@ -28,6 +28,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=BlockBreaker-Game&theme=dark&border_radius=20&title_color=008000&hide_border=true" />
 </a>
 
-#### Something More
+#### Something More:
 
+<a href="https://github.com/WilcyWilson/Digital-Art#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
+</a>
+<a href="https://github.com/WilcyWilson/Git-Github-Workflow#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
+</a>
+<a href="https://github.com/WilcyWilson/Linux-Tips#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Linux-Tips&theme=dark&border_radius=20&hide_border=true" />
+</a>
+<a href="https://github.com/WilcyWilson/SOLID-Design-Principles#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
+</a>
 
