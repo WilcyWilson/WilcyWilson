@@ -23,7 +23,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact" />
 </a>
 
-## Something More: 
+### Something More: 
 
 <a href="https://github.com/WilcyWilson/Digital-Art#readme">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
@@ -42,7 +42,7 @@
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
 </a>
 
-## Contact Me:
+### Contact Me:
 <a href="https://www.linkedin.com/in/wilson-shrestha-37a4ba200/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
