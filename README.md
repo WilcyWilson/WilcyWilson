@@ -19,8 +19,8 @@
 ### My GitHub Stats:
 
 <a href="https://github.com/WilcyWilson?tab=repositories">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,stars,contribs" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,stars,contribs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8" />
 </a>
 
 ### Something More: 
