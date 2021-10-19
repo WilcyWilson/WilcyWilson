@@ -14,7 +14,11 @@
 
 ### My Setup:
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-RX%20470-red?style=for-the-badge&logo=amd) ![CPU](https://img.shields.io/badge/Intel-I5--4440-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram) 
+![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-21.1-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-RX%20470%204%20GB-red?style=for-the-badge&logo=amd) ![CPU](https://img.shields.io/badge/Intel-I5--4440-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram) 
+
+![Manjaro XFCE](https://img.shields.io/badge/Manjaro-XFCE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-GT%20610%202%20GB-green?style=for-the-badge&logo=nvidia&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-Core%202%20Duo%20E6750-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-3%20GB-blue?style=for-the-badge&logo=ram) 
+
+![Manjaro XFCE](https://img.shields.io/badge/Manjaro-XFCE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I3--4030u-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-8%20GB-blue?style=for-the-badge&logo=ram) 
 
 ### My GitHub Stats:
 
