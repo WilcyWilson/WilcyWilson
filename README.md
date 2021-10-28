@@ -14,7 +14,7 @@
 
 ### My Setup:
 
-![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro XFCE](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-RX%20470%204%20GB-red?style=for-the-badge&logo=amd) ![CPU](https://img.shields.io/badge/Intel-I5--4440-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram) 
+![Windows](https://img.shields.io/badge/Windows-10%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro XFCE](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-RX%20470%204%20GB-red?style=for-the-badge&logo=amd) ![CPU](https://img.shields.io/badge/Intel-I5--4440-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
 ![Manjaro XFCE](https://img.shields.io/badge/Manjaro-XFCE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-GT%20610%202%20GB-green?style=for-the-badge&logo=nvidia&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-Core%202%20Duo%20E6750-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-3%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
