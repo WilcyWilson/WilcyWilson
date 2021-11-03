@@ -45,6 +45,10 @@
 <a href="https://github.com/WilcyWilson/SOLID-Design-Principles#readme">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
 </a>
+&nbsp;
+<a href="https://github.com/WilcyWilson/Eclipse-IDE-Tips#readme">
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Eclipse-IDE-Tips&theme=dark&border_radius=20&hide_border=true" />
+</a>
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/wilson-shrestha-37a4ba200/">
