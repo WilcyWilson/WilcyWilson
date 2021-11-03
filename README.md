@@ -37,7 +37,7 @@
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
-<br/></br>
+<br/><br/>
 <a href="https://github.com/WilcyWilson/Linux-Tips#readme">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Linux-Tips&theme=dark&border_radius=20&hide_border=true" />
 </a>
@@ -45,7 +45,7 @@
 <a href="https://github.com/WilcyWilson/SOLID-Design-Principles#readme">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
 </a>
-&nbsp;
+<br/><br/>
 <a href="https://github.com/WilcyWilson/Eclipse-IDE-Tips#readme">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Eclipse-IDE-Tips&theme=dark&border_radius=20&hide_border=true" />
 </a>
