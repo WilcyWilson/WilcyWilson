@@ -25,35 +25,35 @@
 ### My GitHub Stats:
 
 <a href="https://github.com/WilcyWilson?tab=repositories">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,stars,contribs&hide_border=true&border_radius=20" /> &nbsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,stars,contribs&hide_border=true&border_radius=20" /> &nbsp;
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
 </a>
 
 ### Something More: 
 
 <a href="https://github.com/WilcyWilson/Digital-Art#readme">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
+  <img height="80em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/Git-Github-Workflow#readme">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
+  <img height="80em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <br/><br/>
 <a href="https://github.com/WilcyWilson/Linux-Tips#readme">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Linux-Tips&theme=dark&border_radius=20&hide_border=true" />
+  <img height="80em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Linux-Tips&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/SOLID-Design-Principles#readme">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
+  <img height="80em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
 </a>
 <br/><br/>
 <a href="https://github.com/WilcyWilson/Eclipse-IDE-Tips#readme">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Eclipse-IDE-Tips&theme=dark&border_radius=20&hide_border=true" />
+  <img height="80em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Eclipse-IDE-Tips&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/CSharp-Basics#readme">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=CSharp-Basics&theme=dark&border_radius=20&hide_border=true" />
+  <img height="80em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=CSharp-Basics&theme=dark&border_radius=20&hide_border=true" />
 </a>
 
 ### Contact Me:
