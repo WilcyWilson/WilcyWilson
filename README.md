@@ -50,8 +50,8 @@
   <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
 </a>
 <br/><br/>
-<a href="https://github.com/WilcyWilson/Eclipse-IDE-Tips#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Eclipse-IDE-Tips&theme=dark&border_radius=20&hide_border=true" />
+<a href="https://github.com/WilcyWilson/Possible-Java-Interview-Questions#readme">
+  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Possible-Java-Interview-Questions&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/Git-Github-Workflow#readme">
