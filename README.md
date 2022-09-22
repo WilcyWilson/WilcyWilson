@@ -20,9 +20,7 @@
 <br/>
 ![Manjaro XFCE](https://img.shields.io/badge/Manjaro-XFCE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-Core%202%20Duo%20E6750-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-GT%20610%202%20GB-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-3%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
-![Manjaro KDE](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I3--4030u-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-8%20GB-blue?style=for-the-badge&logo=ram) 
-<br/>
-![Manjaro KDE](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--1165G7-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram)
+![Manjaro KDE](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I3--4030u-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-8%20GB-blue?style=for-the-badge&logo=ram)
 
 ### My GitHub Stats:
 
