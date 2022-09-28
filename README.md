@@ -56,6 +56,9 @@
   <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
 </a>
 
+### Typeracer scorecard:
+<a href="https://data.typeracer.com/pit/profile?user=wilcywilson&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=wilcywilson" border="0" alt="TypeRacer.com scorecard for user wilcywilson"/></a>
+
 ### Contact Me:
 <a href="https://www.linkedin.com/in/wilson-shrestha-37a4ba200/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
