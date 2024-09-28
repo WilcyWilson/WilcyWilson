@@ -22,7 +22,7 @@
 <br/>
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu-Server%20-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![CPU](https://img.shields.io/badge/Orange%20PI%203B-Rockchip%20RK3566-orange?style=for-the-badge&logo=rockchip&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-4%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
-![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--4790K-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
+![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--4790K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-RX%20580%208%20GB-red?style=for-the-badge&logo=amd) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
 ![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I5--4440-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-RX%20470%204%20GB-red?style=for-the-badge&logo=amd) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
