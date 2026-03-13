@@ -16,9 +16,11 @@
 
 ### My Setup:
 
-![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--13700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%204080-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-64%20GB-blue?style=for-the-badge&logo=ram) 
+![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--13700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%204080-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
-![TrueNAS Scale](https://img.shields.io/badge/TrueNAS-Scale-0095D5?style=for-the-badge&logo=TrueNAS&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I5--12400-blue?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-64%20GB-blue?style=for-the-badge&logo=ram) 
+![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I5--12400-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205060%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
+<br/>
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--14700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205070%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-64%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
 ![Armbian Server](https://img.shields.io/badge/Armbian-Server%20-E95420?style=for-the-badge&logo=debian&logoColor=white) ![CPU](https://img.shields.io/badge/Orange%20PI%203B-Rockchip%20RK3566-orange?style=for-the-badge&logo=rockchip&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-4%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
