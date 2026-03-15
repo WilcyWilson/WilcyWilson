@@ -15,7 +15,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15) &nbsp; ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 <details>
-  <summary> <h3>🖥️ My Hardware Specs:</h3> </summary>
+  <summary> <strong>🖥️ My Hardware Specs:</strong> </summary><br/>
 
 ![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--13700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%204080-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
@@ -40,7 +40,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
 </a>
 
-### Something More: 
+### Extra: 
 
 <a href="https://github.com/WilcyWilson/Digital-Art#readme">
   <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
