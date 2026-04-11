@@ -36,39 +36,39 @@
 ### My GitHub Stats:
 
 <a href="https://github.com/WilcyWilson?tab=repositories">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,contribs&hide_border=true&border_radius=20" /> &nbsp;
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
+  <img height="140em" src="https://github-readme-stats.shion.dev/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,contribs&hide_border=true&border_radius=20" /> &nbsp;
+  <img height="140em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
 </a>
 
 ### Extra: 
 
 <a href="https://github.com/WilcyWilson/Digital-Art#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
+  <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/CSIT-All#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=CSIT-All&theme=dark&border_radius=20&hide_border=true" />
+  <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=CSIT-All&theme=dark&border_radius=20&hide_border=true" />
 </a>
-&nbsp;
 <br/><br/>
 <a href="https://github.com/WilcyWilson/Linux-Tips#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Linux-Tips&theme=dark&border_radius=20&hide_border=true" />
+  <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=Linux-Tips&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/SOLID-Design-Principles#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
+  <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=SOLID-Design-Principles&theme=dark&border_radius=20&hide_border=true" />
 </a>
 <br/><br/>
 <a href="https://github.com/WilcyWilson/Possible-Java-Interview-Questions#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Possible-Java-Interview-Questions&theme=dark&border_radius=20&hide_border=true" />
+  <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin?username=WilcyWilson&repo=Possible-Java-Interview-Questions&theme=dark&border_radius=20&hide_border=true" />
 </a>
 &nbsp;
 <a href="https://github.com/WilcyWilson/Git-Github-Workflow#readme">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
+  <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
 </a>
 
-### TypeRacer Scorecard:
-<a href="https://data.typeracer.com/pit/profile?user=wilcywilson&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=wilcywilson" border="0" alt="TypeRacer.com scorecard for user wilcywilson"/></a>
+### TypeRacer Stats:
+* **User:** [wilcywilson](https://data.typeracer.com/pit/profile?user=wilcywilson)
+* **View Full Profile:** [TypeRacer Pit Stop](https://data.typeracer.com/pit/profile?user=wilcywilson)
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/wilson-shrestha-37a4ba200/">
