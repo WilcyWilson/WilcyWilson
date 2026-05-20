@@ -19,7 +19,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-11%20-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--13700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%204080-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
-![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I5--12400-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205060%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
+![CachyOS](https://img.shields.io/badge/CachyOS%20|%20Windows%2011-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I5--12400-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205060%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-32%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
 ![Proxmox](https://img.shields.io/badge/Proxmox-TrueNAS%20|%20Windows%2011-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--14700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205070%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-64%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
