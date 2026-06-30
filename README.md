@@ -40,8 +40,10 @@
   <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
 </a>
 
+</br>
 <details open>
-  <summary> <strong>🖥️ My Hardware Specs:</strong> </summary><br/>
+  <summary> <h3>🖥️ My Hardware Specs:</h3> </summary>
+
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-TrueNAS%20|%20Windows%2011-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--14700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205070%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-64%20GB-blue?style=for-the-badge&logo=ram) 
 <br/>
