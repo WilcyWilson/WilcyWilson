@@ -55,8 +55,6 @@
   </a>
 </div>
 
----
-
 ### TypeRacer Stats:
 * **User:** [wilcywilson](https://data.typeracer.com/pit/profile?user=wilcywilson)
 * **View Full Profile:** [TypeRacer Pit Stop](https://data.typeracer.com/pit/profile?user=wilcywilson)
