@@ -14,7 +14,7 @@
 <br/>
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15) &nbsp; ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<details>
+<details open>
   <summary> <strong>🖥️ My Hardware Specs:</strong> </summary><br/>
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-TrueNAS%20|%20Windows%2011-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-I7--14700K-blue?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/Nvidia-RTX%205070%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-64%20GB-blue?style=for-the-badge&logo=ram) 
