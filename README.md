@@ -40,13 +40,6 @@
   <img height="90em" align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=Git-Github-Workflow&theme=dark&border_radius=20&hide_border=true" />
 </a>
 
-### My GitHub Stats:
-
-<a href="https://github.com/WilcyWilson?tab=repositories">
-  <img height="140em" src="https://github-readme-stats.shion.dev/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,contribs&hide_border=true&border_radius=20" /> &nbsp;
-  <img height="140em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
-</a>
-
 <details open>
   <summary> <strong>🖥️ My Hardware Specs:</strong> </summary><br/>
 
@@ -65,6 +58,14 @@
 ![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![CPU](https://img.shields.io/badge/Apple%20M4-333333?style=for-the-badge&logo=apple&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16%20GB-blue?style=for-the-badge&logo=ram)
 
 </details>
+
+### My GitHub Stats:
+
+<a href="https://github.com/WilcyWilson?tab=repositories">
+  <img height="140em" src="https://github-readme-stats.shion.dev/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,contribs&hide_border=true&border_radius=20" /> &nbsp;
+  <img height="140em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
+</a>
+
 
 ### TypeRacer Stats:
 * **User:** [wilcywilson](https://data.typeracer.com/pit/profile?user=wilcywilson)
