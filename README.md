@@ -60,6 +60,6 @@
 * **View Full Profile:** [TypeRacer Pit Stop](https://data.typeracer.com/pit/profile?user=wilcywilson)
 
 ### Contact Me:
-<a href="https://www.linkedin.com/in/wilson-shrestha-37a4ba200/">
+<a href="https://www.linkedin.com/in/wilson-shrestha/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
