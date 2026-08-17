@@ -11,9 +11,6 @@
 ### Projects Showcase: 
 
 <div align="center">
-  <a href="https://github.com/WilcyWilson/Digital-Art#readme">
-    <img height="100" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=Digital-Art&theme=dark&border_radius=20&hide_border=true" />
-  </a>
   <a href="https://github.com/WilcyWilson/CSIT-All#readme">
     <img height="100" src="https://github-readme-stats.shion.dev/api/pin/?username=wilcywilson&repo=CSIT-All&theme=dark&border_radius=20&hide_border=true" />
   </a>
