@@ -44,21 +44,6 @@
 
 </details>
 
-### My GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/WilcyWilson?tab=repositories">
-    <img height="140" src="https://github-readme-stats.shion.dev/api?username=wilcywilson&theme=shades-of-purple&show_icons=true&hide=prs,contribs&hide_border=true&border_radius=20" />
-  </a>
-  <a href="https://github.com/WilcyWilson?tab=repositories">
-    <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wilcywilson&theme=shades-of-purple&layout=compact&hide=shaderlab,hlsl,swift,kotlin,objective-c&langs_count=8&hide_border=true&border_radius=20" />
-  </a>
-</div>
-
-### TypeRacer Stats:
-* **User:** [wilcywilson](https://data.typeracer.com/pit/profile?user=wilcywilson)
-* **View Full Profile:** [TypeRacer Pit Stop](https://data.typeracer.com/pit/profile?user=wilcywilson)
-
 ### Contact Me:
 <a href="https://www.linkedin.com/in/wilson-shrestha/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
